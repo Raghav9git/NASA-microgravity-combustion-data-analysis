@@ -1,0 +1,1 @@
+# Raw Data\n\nStore original research files here during local development. Keep source references and metadata. Avoid committing large datasets or videos to Git.\n

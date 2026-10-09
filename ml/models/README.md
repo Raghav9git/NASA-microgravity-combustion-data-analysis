@@ -1,0 +1,1 @@
+# ML Models\n\nStore model artifacts here only when needed. Avoid committing large model files to Git.\n
